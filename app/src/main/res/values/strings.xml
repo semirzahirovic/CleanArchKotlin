@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Binaria Payments</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="send_transaction_fragment_label">Send Transaction</string>
+    <string name="send">Send</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="recipient_name_hint">Recipient name</string>
+    <string name="amount_send_hint">Amount to send</string>
+    <string name="recipient_phone_hint">Recipient phone</string>
+    <string name="spinner_country_hint">Select Country</string>
+    <string name="transcation_successful_placeholder">Funds sent successfully!</string>
+    <string name="trancation_recipient_amount_title">Recipient will receive:</string>
+
+</resources>
